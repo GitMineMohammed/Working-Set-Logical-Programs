@@ -1,6 +1,6 @@
 package org.logicalprograms;
 
-public class Iteration_Given_Number_Product {
+public class Iteration_Number_Product {
 
 public static void main(String[] args) {
 

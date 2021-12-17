@@ -1,6 +1,6 @@
 package org.logicalprograms;
 
-public class Iteration_Given_Number_Plaindrome {
+public class Iteration_Number_Plaindrome {
 
 	public static void main(String[] args) {
 

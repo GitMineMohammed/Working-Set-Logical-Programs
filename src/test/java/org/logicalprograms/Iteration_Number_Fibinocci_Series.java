@@ -1,6 +1,6 @@
 package org.logicalprograms;
 
-public class Iteration_Given_Number_Fibinocci_Series {
+public class Iteration_Number_Fibinocci_Series {
 
 public static void main(String[] args) {
 
